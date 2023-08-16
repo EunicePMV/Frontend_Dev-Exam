@@ -1,6 +1,8 @@
-# Email Front-End Exam (ReactJS)
+# Villanueva, Eunice Patricia M-FrontEndDev-Exam
 
-## Running the Application
+### Email Front-End Exam (ReactJS)
+
+### Running the Application
 ```
 $ cd email2
 $ npm install
